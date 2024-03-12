@@ -96,11 +96,11 @@ Here are some ideas to get you started:
 <p align="left">
 <div><h3>Using </h3></div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,css,sass,html" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,css,sass,html" />
   </a>
     <div><h3>Learning </h3></div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,materialui" />
+    <img src="https://skillicons.dev/icons?i=materialui,redux" />
   </a>
 </p>
 <br>
